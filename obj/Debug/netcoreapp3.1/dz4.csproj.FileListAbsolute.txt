@@ -1,0 +1,13 @@
+C:\projects\dz4\obj\Debug\netcoreapp3.1\dz4.csprojAssemblyReference.cache
+C:\projects\dz4\obj\Debug\netcoreapp3.1\dz4.csproj.CoreCompileInputs.cache
+C:\projects\dz4\obj\Debug\netcoreapp3.1\dz4.AssemblyInfoInputs.cache
+C:\projects\dz4\obj\Debug\netcoreapp3.1\dz4.AssemblyInfo.cs
+C:\projects\dz4\bin\Debug\netcoreapp3.1\dz4.exe
+C:\projects\dz4\bin\Debug\netcoreapp3.1\dz4.deps.json
+C:\projects\dz4\bin\Debug\netcoreapp3.1\dz4.runtimeconfig.json
+C:\projects\dz4\bin\Debug\netcoreapp3.1\dz4.runtimeconfig.dev.json
+C:\projects\dz4\bin\Debug\netcoreapp3.1\dz4.dll
+C:\projects\dz4\bin\Debug\netcoreapp3.1\dz4.pdb
+C:\projects\dz4\obj\Debug\netcoreapp3.1\dz4.dll
+C:\projects\dz4\obj\Debug\netcoreapp3.1\dz4.pdb
+C:\projects\dz4\obj\Debug\netcoreapp3.1\dz4.genruntimeconfig.cache
